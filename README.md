@@ -4,7 +4,7 @@ Pré-requisitos | Tecnologias | Projeto | Layout | Licença
 
 
 ![image](https://user-images.githubusercontent.com/72118415/131490305-b86c0f84-2e65-4583-b04f-0b4b4d5b2b40.png)
-
+https://curriculochristiane.netlify.app/
 -------------------------------------------------- -----------------------------------
 
 ## 🧩 Pré-requisitos

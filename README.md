@@ -3,7 +3,9 @@ Portfólio com os projetos
 Pré-requisitos | Tecnologias | Projeto | Layout | Licença
 
 
-![image](https://user-images.githubusercontent.com/72118415/131490305-b86c0f84-2e65-4583-b04f-0b4b4d5b2b40.png)
+![image](https://user-images.githubusercontent.com/72118415/131490305-b86c0f84-2e65-4583-b04f-0b4b4d5b2b40.png
+![image](https://user-images.githubusercontent.com/72118415/131491309-3fb7d223-8921-46ad-a271-89ca77a4614a.png)
+Endereço do projeto:
 https://curriculochristiane.netlify.app/
 -------------------------------------------------- -----------------------------------
 

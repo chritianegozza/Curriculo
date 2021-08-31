@@ -1,13 +1,13 @@
+
 Portfólio com os projetos
 *****************************************************************************
-Pré-requisitos | Tecnologias | Projeto | Layout | Licença
+Pré-requisitos | Tecnologias   |    Projeto   |    Layout   |    Licença
+
+![image](https://user-images.githubusercontent.com/72118415/131492147-e3e8230c-ca96-4105-840d-82d01a3c5c28.png)
 
 
-![image](https://user-images.githubusercontent.com/72118415/131490305-b86c0f84-2e65-4583-b04f-0b4b4d5b2b40.png
-![image](https://user-images.githubusercontent.com/72118415/131491309-3fb7d223-8921-46ad-a271-89ca77a4614a.png)
-Endereço do projeto:
-https://curriculochristiane.netlify.app/
--------------------------------------------------- -----------------------------------
+Endereço do site: https://curriculochristiane.netlify.app/
+-------------------------------------------------------------------------------------
 
 ## 🧩 Pré-requisitos
 
@@ -51,5 +51,8 @@ Os agradecimentos vão para essas pessoas maravilhosas.
 ----------------------------------------------------------------------------------------
 
 Feito com 💛 by Christiane Gozza | 2021 | 👋 Participe da nossa comunidade!
+
+
+
 
 

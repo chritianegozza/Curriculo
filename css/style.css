@@ -1,0 +1,309 @@
+body {
+    font-size: 12px;
+    background-color: rgb(226, 203, 226);
+}
+
+.caixa-banner {
+    background-image: url(../img/banner-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.titulo-sobre{
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.titulo1 {
+    font-size: 2rem;
+    text-shadow: 2px 2px rgb(233, 16, 168);
+
+}
+
+.subtitulo1 {
+    font-size: 28px;
+    text-shadow: 2px 2px  rgb(218, 50, 195);
+}
+
+.link-sobre {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #f0e7ee;
+    font-weight: bold;
+    background-color: rgb(245, 20, 226);
+    padding: 8px 20px;
+    border-radius: 20px;
+    transition: 1s all;
+    border: none;
+	cursor: pointer;
+    opacity: 2;
+}
+
+
+.link-sobre:hover {
+        background: rgb(255, 0, 140);
+        transform: scale(1.2);
+}
+
+.caixa-sobre {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.resumo{
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px; 
+    text-align:center;
+    padding: 8px 50px;
+    width: 80%;
+    margin: 0 auto 
+}
+
+.nome {
+    font-weight: bold;
+    color: rgb(235, 52, 180);
+}
+
+.lado1 {
+    width: 40%;
+    justify-content: space-between;
+    
+}
+
+.margin-texto {
+    margin-bottom: 40px;
+}
+
+.lado2 {
+    width: 20%;
+    font-family: open sans, sans-serif;
+    font-size: 16px;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1.5;
+}
+.caixa-sobre1 {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.lado3{
+    width: 20%;
+    justify-content: space-between;
+    margin: 0 auto;
+    text-align:left;
+    font-family: open sans, sans-serif;
+    font-size: 18px
+}
+.lado4 {
+    width: 40%;
+    justify-content: space-between;
+    text-align:left;
+    line-height: 1.5;
+    
+  
+    
+    
+}
+
+.titulo-hard {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(235, 52, 180);
+    
+   
+}
+
+ul {
+    line-height: 1.8;
+    
+}
+
+.titulo-sobre {
+    margin-left: 100px;
+    font-size: 35px;
+    color: rgb(248, 88, 163);
+
+}
+
+.caixa-links {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    opacity: 20;
+    transition: 1s all;
+    border: 2px solid transparent;
+
+}
+
+.links {
+    background-color: #ee20b0;
+    width: 170px;
+    height: 170px;
+    text-align: center;
+    text-decoration: none;
+    color:white;  
+    border: #000 solid 1px;  
+}
+.icone{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+.experiencia{
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px; 
+    padding: 8px 50px;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+
+.educacao {
+    text-align: center;
+    font-size: 18px;
+   
+}
+
+.educacao__lista{
+    padding: 8px 50px;
+    width: 50%;
+    margin: 0 auto;
+    text-align:left;
+    font-family: open sans, sans-serif;
+    font-size: 18px
+}
+
+.extras{
+    padding: 8px 50px;
+    width: 80%;
+    margin: 0 auto;
+    text-align:left;
+    font-family: open sans, sans-serif;
+    font-size: 18px
+}
+.rodape,copyright {
+    background-color: #da33b0;
+	color: #fff;
+	font-size: 16px;
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+    padding: 16px;
+    font-weight: bolder;
+}
+
+.foto-projeto { 
+    display: flex;
+    flex-direction:  row-reverse;
+    justify-content: space-around;
+    border: 1px solid  rgb(246, 1, 152);
+    max-width: 800px;
+    margin: 0 auto;
+}
+div.gallery{
+    margin: 5px;
+    border: 1px solid rgb(241, 56, 164);
+    float: left;
+    width: 200px;
+  }
+  
+div.gallery:hover{
+    border: 1px solid #000;
+  }
+  
+div.gallery img{
+    width: 100%;
+    height: auto;
+  }
+  
+div.desc{
+    padding: 15px;
+    text-align: center;
+  }
+  
+          
+
+
+@media(max-width: 710px) {
+    .caixa-sobre {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+.lado1 {
+    width: 80%;
+    text-align: justify;
+}
+
+.lado2 {
+    width: 80%;
+
+}
+
+.lado3 {
+    width: 80%;
+}
+
+.links {
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+}
+
+.icone {
+    margin-top: 40px;
+
+}
+
+}
+
+.inicio{
+    font-size: 14px;
+    
+}
+
+.barra {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #da33b0;
+  }
+  
+.listaItens {
+    float: left;
+  }
+  
+.listaItens a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  
+.listaItens a:hover:not(.ativa){
+    background-color: #140811;
+  }
+  
+.ativa{
+    background-color: rgb(179, 8, 179);
+  }
